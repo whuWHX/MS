@@ -1,0 +1,8 @@
+['date','svm_high','svm_low','svm_highlow',
+'ols_high','ols_low','ols_highlow',
+'rf_high','rf_low','rf_highlow',
+'gbdt_high','gbdt_low','gbdt_highlow',
+'xgb_high','xgb_low','xgb_highlow',
+'ridge_high','ridge_low','ridge_highlow',
+'mlp_high','mlp_low','mlp_highlow',
+]
