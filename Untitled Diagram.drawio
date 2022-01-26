@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T07:00:36.499Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3883.400 QQBrowser/10.8.4559.400" etag="Vrvrcq1NQTmN1s7DqttQ" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T07:06:09.052Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3883.400 QQBrowser/10.8.4559.400" etag="ZWucg-ph22t8KAaSlXYY" version="16.4.7" type="github">
   <diagram id="YFST6GSa_XyefhwcLXEm" name="Page-1">
     <mxGraphModel dx="1550" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J-RxuwwSiNeqK8nzWatv-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J-RxuwwSiNeqK8nzWatv-2" value="Encoded date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J-RxuwwSiNeqK8nzWatv-3" value="Problem 2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
@@ -15,6 +15,30 @@
             <mxPoint x="410" y="440" as="sourcePoint" />
             <mxPoint x="410" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="J-RxuwwSiNeqK8nzWatv-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="260" as="sourcePoint" />
+            <mxPoint x="710" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-RxuwwSiNeqK8nzWatv-6" value="Keep continuous data" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J-RxuwwSiNeqK8nzWatv-8" value="time series data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-RxuwwSiNeqK8nzWatv-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="J-RxuwwSiNeqK8nzWatv-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="290" as="sourcePoint" />
+            <mxPoint x="570" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-RxuwwSiNeqK8nzWatv-11" value="Stationary time series data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-RxuwwSiNeqK8nzWatv-13" value="Stationary test" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=-16;" vertex="1" parent="1">
+          <mxGeometry x="590" y="300" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
