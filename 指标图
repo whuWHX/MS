@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T06:45:06.250Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 SLBrowser/7.0.0.12151 SLBChan/10" etag="cbR23VDbNSTelSixtkfx" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T06:46:37.177Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 SLBrowser/7.0.0.12151 SLBChan/10" etag="rCnZ4IBjnHMOqdVE9ivM" version="16.4.11" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="2130" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -131,6 +131,14 @@
         <mxCell id="VrFW4WSPUM4wmjHJt65U-139" value="Science and technology" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1150" y="320" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="VrFW4WSPUM4wmjHJt65U-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VrFW4WSPUM4wmjHJt65U-140">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1530" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1485" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VrFW4WSPUM4wmjHJt65U-140" value="Trade situation" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1390" y="320" width="190" height="80" as="geometry" />
         </mxCell>
@@ -157,6 +165,9 @@
         </mxCell>
         <mxCell id="VrFW4WSPUM4wmjHJt65U-166" value="Sci tech&#xa;journal articles" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1290" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VrFW4WSPUM4wmjHJt65U-168" value="Energy imports" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="1530" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
