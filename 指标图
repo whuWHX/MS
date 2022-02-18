@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T07:32:31.963Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 SLBrowser/7.0.0.12151 SLBChan/10" etag="yD2dqOr9t50FEFtf-2KP" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T07:32:50.486Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 SLBrowser/7.0.0.12151 SLBChan/10" etag="H8GuOcwD8ACIHSqpGBPS" version="16.4.11" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="2130" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
         <mxCell id="VrFW4WSPUM4wmjHJt65U-140" value="Trade situation" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1390" y="320" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VrFW4WSPUM4wmjHJt65U-152" value="population" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="VrFW4WSPUM4wmjHJt65U-152" value="Population" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="310" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VrFW4WSPUM4wmjHJt65U-154" value="GDP" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
