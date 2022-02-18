@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T06:29:34.432Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 SLBrowser/7.0.0.12151 SLBChan/10" etag="ZH1g1Ppqe4N1npnvDae3" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T06:33:30.591Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 SLBrowser/7.0.0.12151 SLBChan/10" etag="ixchEgIblSdkuSKLuTxQ" version="16.4.11" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="2130" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -74,8 +74,16 @@
         <mxCell id="VrFW4WSPUM4wmjHJt65U-136" value="Economic development" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="430" y="320" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="VrFW4WSPUM4wmjHJt65U-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VrFW4WSPUM4wmjHJt65U-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="765" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VrFW4WSPUM4wmjHJt65U-137" value="Mineral resources" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="687" y="320" width="190" height="80" as="geometry" />
+          <mxGeometry x="670" y="320" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VrFW4WSPUM4wmjHJt65U-138" value="Environmental conditions" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="900" y="320" width="190" height="80" as="geometry" />
